@@ -1,0 +1,16 @@
+#Thu Oct 04 15:43:27 CST 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+renamed.4=classes5.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=C\:\\11\\107NTUT_ApplicationSoftwareDesign_Lab_2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+renamed.0=classes.dex
+base.3=C\:\\11\\107NTUT_ApplicationSoftwareDesign_Lab_2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.2=C\:\\11\\107NTUT_ApplicationSoftwareDesign_Lab_2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.1=C\:\\11\\107NTUT_ApplicationSoftwareDesign_Lab_2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.0=C\:\\11\\107NTUT_ApplicationSoftwareDesign_Lab_2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+path.4=classes.dex
